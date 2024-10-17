@@ -1,0 +1,42 @@
+   Atualizações de e-books, novos livros, promoções e outros.
+      </p>
+    </div>
+    <input type="email" placeholder="Cadastre seu e-mail" class="contato__email" />
+    <input type="email" placeholder="        Cadastre seu e-mail" class="contato__email" />
+  </section>
+
+  <hr />
+  10 changes: 0 additions & 10 deletions10  
+styles/carrossel.css
+Original file line number	Diff line number	Diff line change
+@@ -94,19 +94,13 @@
+        display: block;
+        top: 60%;
+    }
+
+    .card {
+        width: 60%;
+        margin-left: 3em;
+    }
+}
+
+
+@media screen and (min-width: 1728px) {
+    .carrossel__container {
+        display: flex;
+        margin: 0 20vw 3em 20vw;
+        align-items: center;
+    }
+
+    .swiper-pagination {
+@@ -125,10 +119,6 @@
+        font-size: 16px;
+    }
+
+    .descrição {
+        margin-right: 2em;
+    }
+
+    .card {
+        width: 60%;
+        margin-left: 3em;
